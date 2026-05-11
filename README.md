@@ -1,2 +1,2 @@
-# HTML-2
+# java-DSA
 practicing github
